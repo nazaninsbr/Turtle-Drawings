@@ -11,6 +11,7 @@ check out the <b>_basics_</b> folder to see stuff like drawing lines, changing b
 this is what you'll see in that folder:
 
 ![alt text](./basics.png?raw=true=100x20)
+<img src="./basics.png?raw=true" height="30%">
 
 in the <b>_nested_</b> folder you'll see nested squares and circles.
 this is a collection of those images:
