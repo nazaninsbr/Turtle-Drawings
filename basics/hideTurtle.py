@@ -6,6 +6,7 @@ t.color('green')
 
 
 t.fd(200)
+t.hideturtle()
 
 
 t.screen.exitonclick()
