@@ -7,7 +7,7 @@ this is what you'll see in that folder:
 
 ![alt text](./basics.png?raw=true)
 
-in the <b>_nested_</b> folder you'll see nested squares and circles and the like.
+in the <b>_nested_</b> folder you'll see nested squares and circles.
 this is a collection of those images:
 
 ![alt text](./nested.png?raw=true)
