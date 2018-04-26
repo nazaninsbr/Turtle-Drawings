@@ -1,11 +1,12 @@
 <b>Hi Welcome To Drawing With Turtle</b>
 
-Before I get into what each piece of code does let me show you my best work here:
+<!-- Before I get into what each piece of code does let me show you my best work here:
 
+<img src="./people/one.png?raw=true">
 
-you can find the code for these two in the <b>_Karlie-Kloss_</b> folder.
+you can find the code for these in the <b>_people_</b> folder. -->
 
-Here is what the rest of the code on this repository does:
+Here is what the codes on this repository do:
 
 check out the <b>_basics_</b> folder to see how to draw lines, change the background color and create other simple shapes.
 
