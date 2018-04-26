@@ -3,4 +3,4 @@
 Here is what each code does:
 1) _circle.py_
 
-![alt text](./Turtle-Drawings/circles.png)
+![alt text](./Turtle-Drawings/circles.png?raw=true)
