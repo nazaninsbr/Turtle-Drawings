@@ -1,30 +1,15 @@
 <b>Hi Welcome To Drawing With Turtle</b>
 
 Here is what each code does:
-1) _circle.py_
 
-![alt text](./circles.png?raw=true)
+check out the _basics_ folder to see stuff like drawing lines, changing background color and ... .
+this is what you'll see in that folder:
 
-2) _round.py_
+![alt text](./basics.png?raw=true)
 
-![alt text](./round.png?raw=true)
+in the _nested_ folder you'll see nested squares and circles and the like.
+this is a collection of those images:
 
-3) _figure8.py_
+![alt text](./nested.png?raw=true)
 
-![alt text](./figure8.png?raw=true)
-
-4) _figure8WithMovement.py_
-
-![alt text](./figure8W.png?raw=true)
-
-5) _square.py_
-
-![alt text](./square.png?raw=true)
-
-6) _shapes.py_
-
-![alt text](./shapes.png?raw=true)
-
-7) _colored.py_
-
-![alt text](./colored.png?raw=true)
+moving on to the
