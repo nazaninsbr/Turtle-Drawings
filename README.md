@@ -1,14 +1,10 @@
 <b>Hi Welcome To Drawing With Turtle</b>
 
-<!-- Before I get into what each piece of code does let me show you my best work here:
+starting with the <b>colorful</b> directory, here is what you'll find there:
 
-<img src="./people/one.png?raw=true">
+<img src="./colorful.jpg?raw=true" height="400">
 
-you can find the code for these in the <b>_people_</b> folder. -->
-
-Here is what the codes on this repository do:
-
-check out the <b>_basics_</b> folder to see how to draw lines, change the background color and create other simple shapes.
+then you can check out the <b>_basics_</b> folder to see how to draw lines, change the background color and create other simple shapes.
 
 in the <b>_nested_</b> folder you'll see nested squares and circles.
 this is a collection of those images:

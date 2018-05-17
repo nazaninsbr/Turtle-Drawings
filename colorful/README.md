@@ -1,4 +1,4 @@
-<b>Nested</b>
+<b>Colorful</b>
 
 Here is what each code does:
 
