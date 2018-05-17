@@ -4,11 +4,12 @@ t=Turtle()
 
 
 def backgroundColor():
-	t.screen.bgcolor('#876B52')
+	t.screen.bgcolor('yellow')
 
 def drawFace():
+	t.penup()
+	t.goto(0, 100)
 	t.color('#876B52')
-	t.goto(0, 200)
 	t.shape("circle")
 	t.shapesize(5,4,1)
 	t.fillcolor("#FCD5C4")
